@@ -7,4 +7,4 @@
 Redux nad hooks iimplementation will be done later
 All The Practice Codes are from Anglea Yu's Complete WebDeveloper Bootcamp Course from www.udemy.com
 
-IMPORTANT
+React is Based on JavaScript
