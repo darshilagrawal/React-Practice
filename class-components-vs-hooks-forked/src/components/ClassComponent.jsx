@@ -6,6 +6,7 @@ class ClassComponent extends React.Component {
     this.state = {
       count: 0
     };
+
     this.increase = this.increase.bind(this);
   }
 
@@ -16,6 +17,7 @@ class ClassComponent extends React.Component {
   render() {
     return (
       <div>
+      <h1>Click To increase value.</h1>
         <h1>{this.state.count}</h1>
         <button onClick={this.increase}>+</button>
       </div>
